@@ -7,6 +7,9 @@
 - C#
 - .Net Core MVC
 - Blazor
+- React
+- Javascript
+- TypeScript
 
 ## Hobbies
 ---
