@@ -1,6 +1,6 @@
 # **Ashar Ali (AxharKhan)**
 ---
-### Junior Developer at Xumerz Inc.
+### Full Stack Engineer at ProductBox
 
 ## Technologies
 ---
