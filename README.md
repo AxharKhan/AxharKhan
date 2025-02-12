@@ -11,10 +11,20 @@
     srcset="https://github-readme-stats.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars&card_width=320" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxharKhan&theme=dracula)](https://github.com/AxharKhan/github-readme-stats)
+<picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AxharKhan&layout=compact&langs_count=8&card_width=320&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AxharKhan&layout=compact&langs_count=8&card_width=320&theme=dracula"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AxharKhan&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</picture>
 
 ## Technologies
 ---
