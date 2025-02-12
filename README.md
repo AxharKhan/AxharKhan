@@ -30,5 +30,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AxharKhan&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxharKhan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxharKhan&theme=dracula)](https://github.com/AxharKhan/github-readme-stats)
 
