@@ -3,18 +3,6 @@
 ### Full Stack Engineer at ProductBox
 
 <picture>
-  <source
-    srcset="https://github-readme-stats-iota-six-69.vercel.app/api?username=AxharKhan&show_icons=true&theme=dracula&hide=stars"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-iota-six-69.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 align="center"  src="https://github-readme-stats-iota-six-69.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars&card_width=320" />
-</picture>
-
-<picture>
     <source
     srcset="https://github-readme-stats-iota-six-69.vercel.app/api/top-langs?username=AxharKhan&layout=compact&langs_count=12&card_width=320&theme=dracula"
     media="(prefers-color-scheme: dark)"
@@ -24,6 +12,18 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img height=200 align="center" src="https://github-readme-stats-iota-six-69.vercel.app/api/top-langs?username=AxharKhan&layout=compact&langs_count=12&card_width=320&theme=dracula" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-iota-six-69.vercel.app/api?username=AxharKhan&show_icons=true&theme=dracula&hide=stars"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-iota-six-69.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 align="center"  src="https://github-readme-stats-iota-six-69.vercel.app/api?username=AxharKhan&show_icons=true&hide=stars&card_width=320" />
 </picture>
 
 ## Technologies
