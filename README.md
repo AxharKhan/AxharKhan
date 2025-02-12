@@ -39,7 +39,7 @@
 ## Hobbies
 ---
 - Coding
-- Video Games
+- Gaming
 - Anime
 - Memes
 
